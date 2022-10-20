@@ -1,0 +1,6 @@
+#!/bin/bash
+# Tervitab "Tere, kasutajanimi!"
+
+echo -n "Tere, "
+echo -n `whoami`
+echo "!"
